@@ -1,0 +1,4 @@
+attività 1)=visita dei padiglioni di eicma
+attività 2)=ascolto di presentazioni riguardante motori e informazioni inerenti alla meccanica
+attività 3)=pranzo al sacco
+attività 4)=prova simulatori motogp
