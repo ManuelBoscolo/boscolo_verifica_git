@@ -5,4 +5,6 @@ attività 4)=incontro con il campione di enduro veronesi del team ktm
 attività 5)=incontro fuori dal palazzetto di eicma per ritorno a casa 
 attività 6)=primo incontro avvicinato con motori e moto
 attivita 7)=foto con influencer 
+attività 8)=partenza da milano ore 18:00
+attività 9)=arrivo a cuneo ore 21:00
 
