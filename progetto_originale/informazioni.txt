@@ -1,4 +1,8 @@
 luogo di ritrovo ore 5:30 nel parcheggio di fianco all'itis mario del pozzo 
+<<<<<<< HEAD
 partenza ore 6:20 da cuneo 
+=======
+partenza ore 6:05 da cuneo 
+>>>>>>> orario-alternativo
 arrivo alle ore 9:00
 modalità di partecipazione= foreremo dei piccoli gruppi per dividere le attività in modo equo e far fare tutte le attività ai ragazziù
