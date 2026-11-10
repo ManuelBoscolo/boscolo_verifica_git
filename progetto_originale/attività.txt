@@ -1,4 +1,6 @@
 attività 1)=visita dei padiglioni di eicma
 attività 2)=ascolto di presentazioni riguardante motori e informazioni inerenti alla meccanica
 attività 3)=pranzo al sacco
-attività 4)=prova simulatori motogp
+attività 4)=incontro con il campione di enduro veronesi del team ktm 
+attività 5)=incontro fuori dal palazzetto di eicma per ritorno a casa 
+
