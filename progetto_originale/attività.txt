@@ -3,4 +3,6 @@ attività 2)=ascolto di presentazioni riguardante motori e informazioni inerenti
 attività 3)=pranzo al sacco
 attività 4)=incontro con il campione di enduro veronesi del team ktm 
 attività 5)=incontro fuori dal palazzetto di eicma per ritorno a casa 
+attività 6)=primo incontro avvicinato con motori e moto
+attivita 7)=foto con influencer 
 
